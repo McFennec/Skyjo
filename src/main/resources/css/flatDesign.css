@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+.validationSelectName {
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #000000;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 20px;
+    -fx-transition: all 2s ease;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;}
+
+.validationSelectName:hover {
+    -fx-background-color: #2a2a2a;
+    -fx-border-color: #2a2a2a;
+}
+
+.validationSelectName:pressed {
+    -fx-background-color: #424242;
+    -fx-border-color: #424242;
+    -fx-text-fill: white;
+}
+
+.combo-box, .text-field {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-border-color: black;
+    -fx-border-width: 1.5px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 3;
+    -fx-font-size: 14px;
+    -fx-background-insets: 3;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;
+}
+
+.greenButton {
+    -fx-background-color: #65e857;
+    -fx-text-fill: black;
+    -fx-border-color: #65e857;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 22px;
+    -fx-transition: all 2s ease;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;
+}
+
+.greenButton:hover {
+    -fx-background-color: #4dce3f;
+    -fx-border-color: #4dce3f;
+}
+
+.greenButton:pressed {
+    -fx-background-color: #46bb39;
+    -fx-border-color: #46bb39;
+}
+
+.redButton {
+    -fx-background-color: #ee6060;
+    -fx-text-fill: black;
+    -fx-border-color: #ee6060;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 22px;
+    -fx-transition: all 2s ease;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;
+}
+
+.redButton:hover {
+    -fx-background-color: #e34646;
+    -fx-border-color: #e34646;
+}
+
+.redButton:pressed {
+    -fx-background-color: #ce4040;
+    -fx-border-color: #ce4040;
+}
+
+.CreerButton {
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #000000;
+    -fx-border-width: 5px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 24px;
+    -fx-transition: all 2s ease;
+    -fx-background-insets: 2;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;
+}
+
+.CreerButton:hover {
+    -fx-background-color: #181818;
+    -fx-border-color: #0592bd;
+}
+
+.CreerButton:pressed {
+    -fx-background-color: #000000;
+    -fx-border-color: #037496;
+}
+
+.RejoindreButton {
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #000000;
+    -fx-border-width: 5px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 24px;
+    -fx-transition: all 2s ease;
+    -fx-background-insets: 2;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;
+}
+
+.RejoindreButton:hover {
+    -fx-background-color: #181818;
+    -fx-border-color: #d8e004;
+}
+
+.RejoindreButton:pressed {
+    -fx-background-color: #000000;
+    -fx-border-color: #b9b004;
+}
+
+.greenButtonMode {
+    -fx-background-color: #65e857;
+    -fx-text-fill: black;
+    -fx-border-color: #65e857;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 17px;
+    -fx-transition: all 2s ease;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;}
+
+.greenButtonMode:hover {
+    -fx-background-color: #4dce3f;
+    -fx-border-color: #4dce3f;
+}
+
+.greenButtonMode:pressed {
+    -fx-background-color: #46bb39;
+    -fx-border-color: #46bb39;
+}
+
+.redButtonMode {
+    -fx-background-color: #ee6060;
+    -fx-text-fill: black;
+    -fx-border-color: #ee6060;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 17px;
+    -fx-transition: all 2s ease;
+    -fx-font-family: "Comfortaa", sans-serif;
+    -fx-font-weight: 800;}
+
+.redButtonMode:hover {
+    -fx-background-color: #e34646;
+    -fx-border-color: #e34646;
+}
+
+.redButtonMode:pressed {
+    -fx-background-color: #ce4040;
+    -fx-border-color: #ce4040;
+}
