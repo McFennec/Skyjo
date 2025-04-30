@@ -1,24 +1,24 @@
-# SAE201.2024.42
+## REMARQUE
+Le jeu accède à des adresse ip de serveurs qui ne sont plus ouverts, impossible de tester!
 
-
-## Nom
-Projet SKYJO
+## Nom du projet
+**SKYJO** – Application de jeu client
 
 ## Description
-Ce projet consiste au développement d'une application cliente pour jouer au skyjo
+Ce projet consiste au développement d'une application cliente permettant de jouer au jeu de cartes *Skyjo*.  
+L'objectif est de reproduire fidèlement les mécaniques du jeu en version numérique, avec une interface utilisateur interactive.
 
+## Prérequis
+- Un IDE compatible (ex. IntelliJ IDEA)
 
-## Usage
-Lancer le main et cela ouvre la fenetre de jeu
-
+## Utilisation
+1. Cloner le dépôt ou importer le projet dans votre IDE.
+2. Lancer la classe `Main` pour démarrer l'application.
+3. Une fenêtre s'ouvre, donnant accès à l'interface de jeu.
 
 ## Auteurs
-- LEROULEY Clement
-- MARQUIS Clement
-- MOISAN Aron
-- LE COMTE Benjamin
-- DROUHOT Loris
-
-
-## Etat du Projet
-Presque finis
+- Clément Lerouley  
+- Clément Marquis  
+- Aron Moisan  
+- Benjamin Le Comte  
+- Loris Drouhot
